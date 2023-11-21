@@ -12,4 +12,4 @@
 
 ### My Project's:
 
-**[1. Calculator-Web](https://github.com/Nellose/Calculator-Web)** [![OpenSource](https://img.shields.io/badge/OpenSource-✅-brightgreen)](LINK_TO_YOUR_OPEN_SOURCE_PAGE) ![Update](https://img.shields.io/badge/UPD-21.11.2023-blue)
+**1. [Calculator-Web](https://github.com/Nellose/Calculator-Web) | OpenSource - ✅ | UPD - 21.11.2023**
