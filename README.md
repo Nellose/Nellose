@@ -15,5 +15,3 @@
 **1. [Calculator-Web](https://github.com/Nellose/Calculator-Web) | OpenSource - ✅ | UPD - 21.11.2023**
 
 **2. [Losser-DoS](https://github.com/Nellose/Losser-DoS) | OpenSource - ✅ | UPD - 21.11.2023**
-
-**3. [Anti-DDoS-Web](https://github.com/Nellose/Anti-DDoS-Web) | OpenSource - ✅ | UPD - 22.11.2023**
